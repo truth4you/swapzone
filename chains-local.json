@@ -1,0 +1,29 @@
+{
+    "8546": {
+        "name": "Chain1",
+        "url": "http://localhost:8546",
+        "coin": "eth",
+        "symbol": "ETH",
+        "tokens": {
+            "usdt": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+        }
+    },
+    "8547": {
+        "name": "Chain2",
+        "url": "http://localhost:8547",
+        "coin": "bnbbsc",
+        "symbol": "BNB",
+        "tokens": {
+            "busd": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+        }
+    },
+    "8548": {
+        "name": "Chain3",
+        "url": "http://localhost:8548",
+        "coin": "avaxc",
+        "symbol": "AVAX",
+        "tokens": {
+            "usdc": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+        }
+    }
+}
